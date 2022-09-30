@@ -50,7 +50,7 @@ String weather = "天气获取中...";
 // dnspod
 String domain = "ranmc.cc";
 String subDomain = "ddns";
-String loginToken = "336053,3536c7dd873558b7a2e3b8b9edd78816";
+String loginToken = "xxxx,xxxxxxxxxx";
 String recordId;
 String address;
 
